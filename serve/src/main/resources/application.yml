@@ -3,9 +3,9 @@
 #
 #spring:
 #  datasource:
-#    username: root
-#    password:
-#    url: jdbc:mysql://localhost:3306/hotel
+#    username: rex
+#    password: 123
+#    url: jdbc:mysql://34.133.11.180/hotel
 #    driver-class-name: com.mysql.cj.jdbc.Driver
 #  jpa:
 #    show-sql: true
